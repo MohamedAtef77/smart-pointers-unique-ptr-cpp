@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Do not ignore directories (needed to traverse into them)
+!*/
+
+# Allow source and text files
+!*.c
+!*.cpp
+!*.h
+!*.txt
+!*.md
+!.gitignore
+
+
