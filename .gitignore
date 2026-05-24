@@ -11,5 +11,9 @@
 !*.txt
 !*.md
 !.gitignore
+!*.json
 
-
+# Allow Claude Code hook files
+!.claude/
+!.claude/hooks/
+!.claude/hooks/*.py
